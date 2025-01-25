@@ -2,11 +2,16 @@
 
 Este repósitorio serve basicamente como uma coleção de links de vários materiais de estudos baixáveis.
 
+
 ## Coleções Específicas
 
 [Fundamentos de Matemática Elementar](https://mega.nz/fm/M8pASaKC)
+
 [Tópicos de Física](https://mega.nz/fm/pshXzCiS)
+
 [Química Feltre](https://mega.nz/fm/8sgk3K4b)
+
+
 
 ## Coleções Gerais:
 
